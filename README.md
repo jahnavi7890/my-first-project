@@ -1,2 +1,3 @@
 # my-first-project
-This project is about data analysis, data visualization and a prediction model on one of the features from the dataset selected
+
+This project involves data analysis, data visualization, and building a prediction model based on one of the features from the selected dataset sourced from Kaggle.
